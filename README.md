@@ -1,9 +1,9 @@
 ## About
 The AddressToIP contracts are a pair of Ethereum contracts that map Ethereum addresses to IP addresses. The transaction sender can set and delete his, and only his, IP address entry. The data is public, so that anyone can obtain an IP for an Ethereum address (assuming the mapping exists).
 
-The IPv4 contract is at address 0x018f8d3c03c09298c358af2c9119ba5c0d5423fe .
+The IPv4 contract is at address 0xd21e907c322c69a9932135eeb1d52fe5b661179a .
 
-The IPv6 contract is at address 0x7c26014679a5888f4bb24517789e79bdb03b4ccd .
+The IPv6 contract is at address 0x93a2863108236d86b3b02f851e0620af16d59568 .
 
 ## Features
 * IPv4 and IPv6 support
