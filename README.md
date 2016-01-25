@@ -13,7 +13,7 @@ The IPv6 contract is at address [0x93a2863108236d86b3b02f851e0620af16d59568](htt
 ## API and gas estimate
 ### AddressToIPv4
 ``get_ip(address addr) returns (uint32)`` (no gas)
-- Gets an IP address for an Ethereum address.  If the entry does not exist, returns 0.
+- Gets an IP address for an Ethereum address. If the entry does not exist, returns 0.
 
 ``set_ip(uint32 ip)`` (20,318 gas)
 - Sets the sender's IP address to ``ip``
@@ -31,7 +31,7 @@ The IPv6 contract is at address [0x93a2863108236d86b3b02f851e0620af16d59568](htt
 ``delete_ip()`` (20,273 gas)
 - Deletes the sender's IP address
 
-## Source Code
+## Source code
 
 ```
 contract AddressToIPv4 {
@@ -77,5 +77,5 @@ contract AddressToIPv6 {
 }
 ```
 
-## Compiler Version
+## Compiler version
 0.1.6-0/Release-Linux/g++/int linked to libethereum-0.9.93-0/Release-Linux/g++/int
