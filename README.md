@@ -79,3 +79,6 @@ contract AddressToIPv6 {
 
 ## Compiler version
 0.1.6-0/Release-Linux/g++/int linked to libethereum-0.9.93-0/Release-Linux/g++/int
+
+## See also
+* [AddressToUrl](http://consensys.github.io/addresstourl/) - mapping Ethereum addresses to URLs
